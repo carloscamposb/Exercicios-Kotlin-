@@ -1,3 +1,4 @@
-# Desmistificando a Linguagem de Programação Kotlin
+# Exercícios de Kotlin para aprimoramento pessoal
 
-Repositório com os exemplos de código-fonte explorados para o ensimo de Kotlin.
+
+**Curso da Dio**
